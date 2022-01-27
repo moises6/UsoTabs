@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UsoTaps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="qui_n_soy">Quién Soy</string>
+    <string name="que_estudio">Que estudio</string>
+    <string name="tecnologias">Tecnologias</string>
+    <string name="estudio_ingenier_a_desarrollo_en_software_n_en_universidad_de_oriente">Estudio ingeniería desarrollo en software\n en universidad de oriente</string>
+</resources>

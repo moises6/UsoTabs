@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Controlador.tabla3">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Hola soy moises estudiante de la carrera ingeniería desarrollo software 3 año en la universidad de oriente"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="223dp"
+        android:layout_gravity=""
+        android:rotationX="0"
+        android:src="@drawable/personal"
+        android:visibility="visible" />
+
+
+</FrameLayout>

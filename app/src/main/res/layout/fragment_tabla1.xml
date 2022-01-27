@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Controlador.tabla1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="104dp"
+        android:src="@drawable/progra" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="354dp"
+        android:gravity="center"
+        android:text="Según mi capacidades en porcentaje\nJava = 50%\n Sqlserver = 70%\n C# = 40"
+        android:textColor="@color/cardview_dark_background"
+
+        android:textSize="20dp" />
+
+
+</FrameLayout>

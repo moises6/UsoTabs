@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Controlador.tabla2">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="189dp"
+        android:src="@drawable/logounivo"
+        android:contentDescription="TODO" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/estudio_ingenier_a_desarrollo_en_software_n_en_universidad_de_oriente"
+        android:textAlignment="center"
+
+        android:textColor="@color/cardview_dark_background"
+
+        android:textSize="20sp" />
+
+</FrameLayout>
